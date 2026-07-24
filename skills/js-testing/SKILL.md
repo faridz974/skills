@@ -1,5 +1,5 @@
 ---
-name: testing-code
+name: js-testing
 description: Write, review, debug, or refactor automated tests for code. Use when user needs to add test coverage, choose test boundaries, improve flaky or brittle tests, test React or browser UI behavior, decide between unit/integration/end-to-end/component tests, work with Vitest/Jest/Testing Library/Playwright/MSW mocks, clean up test state, or review whether tests assert user or domain intent instead of implementation details.
 ---
 
